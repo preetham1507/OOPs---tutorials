@@ -1,0 +1,7 @@
+1. Class and Obj(example of Employee/student and Phone)
+2. Class has Data Attributes and Methods
+3. Why Python is OOPs - each data structure is written as a class-> that's why it is referred to as OOPs
+4.Advantages of OOPs 
+      ->make your own data type
+      ->code reusablity
+       
