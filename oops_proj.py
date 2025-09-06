@@ -52,6 +52,14 @@ class chatbook:
             print('\n')
             self.menu()
 
+    def postings(self):
+        if self.Loggedin:
+            txt = input("Please input the text - ")
+            print(f"Your content is posted - {txt}")
+        
+        else:
+            print('You need to sign in first') 
+
 
 
 obj = chatbook()

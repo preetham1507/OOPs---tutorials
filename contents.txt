@@ -4,4 +4,6 @@
 4.Advantages of OOPs 
       ->make your own data type
       ->code reusablity
-       
+       ->Debuggin
+       ->Colab
+
